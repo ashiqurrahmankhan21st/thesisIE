@@ -1,2 +1,2 @@
-# thesis_IE
+# BSc thesis.
 Thesis on Industrial Engineering
